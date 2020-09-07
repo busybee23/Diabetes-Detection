@@ -30,12 +30,9 @@ Finally after a successive training it’s our main goal to integrate our machin
 <img src="/flask_integration/static/images/diabetics diagnosis.PNG" alt=""/>
 
 
-Hope you have enjoyed learning this, if so share this with others and for more such contents you can connect with me on 
 
-YouTube: https://www.youtube.com/channel/UCmF8qppe02J1ot4Jfwl_lFg
 
-LinkedIn: https://www.linkedin.com/in/jagwithyou/
 
-Medium: https://medium.com/@jagwithyou
+
 
 
