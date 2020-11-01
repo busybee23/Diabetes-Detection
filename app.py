@@ -11,8 +11,8 @@ def home():
     return render_template("index.html")
 
 #Define diagnosis route
-@app.route("/diagnosis", methods=['POST'])
-def diagnosis():
+@app.route("/predict", methods=['POST'])
+def predict():
     '''
     For rendering results on HTML GUI 
     '''
@@ -20,9 +20,9 @@ def diagnosis():
     final_features = [np.array(int_features)]
     prediction = model.predict(final_features)
 
-    
+    output = round(prediction[0], 2)
 
-    if prediction == 1 :
+    if output == 1 :
         return render_template('index.html', prediction_text="Positive")
     else :
         return render_template('index.html', prediction_text="Negative")
