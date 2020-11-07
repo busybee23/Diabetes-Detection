@@ -24,6 +24,22 @@ First we are going to collect the dataset and clean it. Then we will create a Lo
 
 Finally after a successive training it’s our main goal to integrate our machine learning model with the GUIs. You can use tkinter for making a desktop application like we did in Linear Regression example, but here we are going to integrate it with a web framework i.e Flask, to create a website that will take the input parameters from the user and predict if they are Diabetic or not.
 
+>### DEPLOYMENT
+<BR>
+
+### The model is deployed on Heroku which is a cloud platform as a service (PaaS).
+
+#### Platform : Heroku
+#### Accuracy : 79.22 %
+#### Execution Time : 2.32 sec
+#### Project Size :  3.42 MB
+#### Project Size (Heroku) : 127.3 MB
+#### Last Edited : 10:50 PM 07-Nov-2020 
+<br>
+
+[![N|Solid](markups/rocket2.png)](https://diabetes-preds.herokuapp.com/)
+
+
 
 
 
