@@ -1,4 +1,4 @@
-# Logistic Regression with example : Diabetes Detection
+# Logistic Regression : Diabetes Detection
 
 Logistic Regression is a Machine Learning algorithm which is used for the classification problems, it is a predictive analysis algorithm and based on the concept of probability.
 
