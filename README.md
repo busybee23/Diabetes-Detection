@@ -1,9 +1,14 @@
+
+
+![diabetes-colorful-letters-banner-260nw-1213810309](https://user-images.githubusercontent.com/61913116/120274744-ea4e0d00-c2cd-11eb-8322-a0f24a13caab.jpg)
+
+
 # Logistic Regression : Diabetes Detection
 
 Logistic Regression is a Machine Learning algorithm which is used for the classification problems, it is a predictive analysis algorithm and based on the concept of probability.
 
+![pass_fail](https://user-images.githubusercontent.com/61913116/120274942-34cf8980-c2ce-11eb-9b84-61ad02afecbe.png)
 
-<img src="/flask_integration/static/images/pass_fail.png" alt="" width="250"/>
 
 As shown in the picture if you are trying to figure out the test will pass or fail; that is known as Logistic regression. Lets see some real world example
  <ul>
@@ -24,7 +29,8 @@ First we are going to collect the dataset and clean it. Then we will create a Lo
 
 Finally after a successive training it’s our main goal to integrate our machine learning model with the GUIs. You can use tkinter for making a desktop application like we did in Linear Regression example, but here we are going to integrate it with a web framework i.e Flask, to create a website that will take the input parameters from the user and predict if they are Diabetic or not.
 
->### DEPLOYMENT
+# DEPLOYMENT
+## ( Click on rocket to launch project )
 <BR>
 
 ### The model is deployed on Heroku which is a cloud platform as a service (PaaS).
